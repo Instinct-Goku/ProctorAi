@@ -1,0 +1,7 @@
+numpy
+opencv-python
+dlib
+pandas
+cmake
+matplotlib
+seaborn == 0.11.0
